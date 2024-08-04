@@ -1,3 +1,9 @@
+# watchAndRename.py
+
+# MIT License
+# Dennis Cao (dennis-cao-net)
+
+
 import os
 import time
 import subprocess
