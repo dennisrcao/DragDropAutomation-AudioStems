@@ -1,6 +1,6 @@
 ## Overview
 ![alt text](image.png)
-This script is meant to run on a PC (Windows) running a virtual machine such Oracle VirtualBox. It automates the processing of audio files by detecting their key and tempo, renaming them accordingly, and running an AutoHotkey script to process the files with RipX DAW.
+<br>This script is meant to run on a PC (Windows) running a virtual machine such Oracle VirtualBox. It automates the processing of audio files by detecting their key and tempo, renaming them accordingly, and running an AutoHotkey script to process the files with RipX DAW.<br>
 [Detailed on my website](https://www.denniscao.net/projects/drag-drop-stems?pageId=606c3433316d3167376c3166616633663431676d62373766346263656464346d)
 
 
